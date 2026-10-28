@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anastasios Eleftheriadis
 
-<!--
-**a-elef93/a-elef93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in IT support and web development, and build hands-on projects in Linux, Azure, containers, and automation. I am seeking a junior DevOps opportunity, remote or hybrid in Thessaloniki.
 
-Here are some ideas to get you started:
+## DevOps portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [Azure infrastructure with Terraform](https://github.com/a-elef93/terraform-azure-lab) | Infrastructure as code for an Azure Linux VM and networking, with remote state in Azure Storage. |
+| [Kubernetes lab](https://github.com/a-elef93/kubernetes-lab) | Local kind deployments, service discovery, configuration, health probes, resource limits, and Redis persistent storage. |
+| [Monitoring lab](https://github.com/a-elef93/monitoring-lab) | Prometheus, Grafana, and Node Exporter with Docker Compose; CPU load testing, disk capacity investigation, and a tested exporter failure/recovery alert. |
+| [Todo API](https://github.com/a-elef93/todo-api) | Flask and PostgreSQL with Docker, GitHub Actions tests and smoke checks, and container image publishing to GHCR. |
+| [Notes API](https://github.com/a-elef93/notes-api) | A Flask REST API backed by Redis, with Docker Compose and persistent storage. |
+
+These are learning and portfolio projects. Each repository documents its setup and scope.
+
+## Web development
+
+- [Workout Tracker](https://github.com/a-elef93/workout-tracker): a JavaScript application for tracking gym progress.
+
+## Tools used in these projects
+
+Linux · Git · Docker · Docker Compose · GitHub Actions · Azure · Terraform · Kubernetes · Prometheus · Grafana · Python · Flask · Redis · PostgreSQL · JavaScript
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/anastasios-eleftheriadis-43a153414/) · [GitHub repositories](https://github.com/a-elef93?tab=repositories)
