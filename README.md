@@ -26,7 +26,6 @@ I'm looking for a **Junior DevOps or Python Developer role**, either remote or h
 
 - [Workout Tracker](https://github.com/a-elef93/workout-tracker): a JavaScript application for tracking gym progress.
 
-These are learning and portfolio projects. Each repository documents its setup and scope.
 
 ## Tools used in these projects
 
