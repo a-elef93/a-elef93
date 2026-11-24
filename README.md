@@ -11,6 +11,10 @@ I work in IT support and web development, and build hands-on projects in Linux, 
 | [Monitoring lab](https://github.com/a-elef93/monitoring-lab) | Prometheus, Grafana, and Node Exporter with Docker Compose; CPU load testing, disk capacity investigation, and a tested exporter failure/recovery alert. |
 | [Todo API](https://github.com/a-elef93/todo-api) | Flask and PostgreSQL with Docker, GitHub Actions tests and smoke checks, and container image publishing to GHCR. |
 | [Notes API](https://github.com/a-elef93/notes-api) | A Flask REST API backed by Redis, with Docker Compose and persistent storage. |
+
+## Python portofolio
+| **Project** | **What it demonstrates** |
+| --- | --- |
 | [Expense Tracker](https://github.com/a-elef93/expense-tracker) | A desktop app built with Python, Tkinter, and SQLite for tracking income and expenses. |
 | [AI Email Assistant](https://github.com/a-elef93/ai-email-assistant) | A Python-based email classification and automation project that combines object-oriented programming, OpenAI-powered analysis, structured outputs, SQLite persistence, and a FastAPI REST API. |
 
