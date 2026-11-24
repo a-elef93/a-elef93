@@ -1,6 +1,10 @@
 # Hi, I'm Anastasios Eleftheriadis
 
-I work in IT support and web development, and build hands-on projects in Linux, Azure, containers, and automation. I am seeking a junior DevOps opportunity, remote or hybrid in Thessaloniki.
+I'm an IT and networking professional with over 10 years of hands-on experience setting up networks, supporting users, and troubleshooting on-site infrastructure. I hold a **BSc in Computer Science** from the University of Ioannina and the **Microsoft Azure Fundamentals (AZ-900)** certification.
+
+I'm building on that experience through **DevOps and Python projects**. My portfolio includes provisioning Azure infrastructure with Terraform, automating tests and Docker image publishing with GitHub Actions, and building Python applications backed by SQLite.
+
+I'm looking for a **Junior DevOps or Python Developer role**, either remote or hybrid in Thessaloniki.
 
 ## DevOps portfolio
 
@@ -15,14 +19,15 @@ I work in IT support and web development, and build hands-on projects in Linux, 
 ## Python portofolio
 | **Project** | **What it demonstrates** |
 | --- | --- |
-| [Expense Tracker](https://github.com/a-elef93/expense-tracker) | A desktop app built with Python, Tkinter, and SQLite for tracking income and expenses. |
 | [AI Email Assistant](https://github.com/a-elef93/ai-email-assistant) | A Python-based email classification and automation project that combines object-oriented programming, OpenAI-powered analysis, structured outputs, SQLite persistence, and a FastAPI REST API. |
+| [Expense Tracker](https://github.com/a-elef93/expense-tracker) | A desktop app built with Python, Tkinter, and SQLite for tracking income and expenses. |
 
-These are learning and portfolio projects. Each repository documents its setup and scope.
 
 ## Web development
 
 - [Workout Tracker](https://github.com/a-elef93/workout-tracker): a JavaScript application for tracking gym progress.
+
+These are learning and portfolio projects. Each repository documents its setup and scope.
 
 ## Tools used in these projects
 
