@@ -1,7 +1,6 @@
 # Hi, I'm Anastasios Eleftheriadis
 
-I'm an IT and networking professional with over 10 years of hands-on experience setting up networks, supporting users, and troubleshooting on-site infrastructure. I hold a **BSc in Computer Science** from the University of Ioannina and the **Microsoft Azure Fundamentals (AZ-900)** certification.
-
+I'm an IT and networking professional with over 10 years of hands-on experience setting up networks, supporting users, and troubleshooting on-site infrastructure. I hold a **BSc in Computer Science** from the University of Ioannina and currently preparing to start my **MSc in Cybersecurity** at European University Cyprus in February 2027.
 I'm building on that experience through **DevOps and Python projects**. My portfolio includes provisioning Azure infrastructure with Terraform, automating tests and Docker image publishing with GitHub Actions, and building Python applications backed by SQLite.
 
 I'm looking for a **Junior DevOps or Python Developer role**, either remote or hybrid in Thessaloniki.
