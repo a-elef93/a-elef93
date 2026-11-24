@@ -23,7 +23,8 @@ I'm looking for a **Junior DevOps or Python Developer role**, either remote or h
 
 
 ## Web development
-
+| **Project** | **What it demonstrates** |
+| --- | --- |
 | [Workout Tracker](https://github.com/a-elef93/workout-tracker) | A JavaScript application for tracking gym progress. |
 
 
