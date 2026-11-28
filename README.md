@@ -21,6 +21,10 @@ I'm looking for a **Junior DevOps or Python Developer role**, either remote or h
 | [AI Email Assistant](https://github.com/a-elef93/ai-email-assistant) | A Python-based email classification and automation project that combines object-oriented programming, OpenAI-powered analysis, structured outputs, SQLite persistence, and a FastAPI REST API. |
 | [Expense Tracker](https://github.com/a-elef93/expense-tracker) | A desktop app built with Python, Tkinter, and SQLite for tracking income and expenses. |
 
+## Java portofolio
+| **Project** | **What it demonstrates** |
+| --- | --- |
+| [Client License Manager](https://github.com/a-elef93/client-manager) | A Java desktop application for managing clients and tracking license renewals. Built in during my internship as Junior Java Developer. |
 
 ## Web development
 | **Project** | **What it demonstrates** |
