@@ -25,6 +25,7 @@ I'm looking for a **Junior DevOps or Python Developer role**, either remote or h
 | **Project** | **What it demonstrates** |
 | --- | --- |
 | [Client License Manager](https://github.com/a-elef93/client-manager) | A Java desktop application for managing clients and tracking license renewals. Built in during my internship as Junior Java Developer. |
+| [Pc Partpicker Pro](https://github.com/a-elef93/partpicker-pro?tab=readme-ov-file) | A desktop app (JavaFX + SQLite) for people who buy and sell second-hand PC hardware. |
 
 ## Web development
 | **Project** | **What it demonstrates** |
